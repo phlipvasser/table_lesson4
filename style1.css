@@ -1,0 +1,99 @@
+
+ body{
+        margin: 0 auto;
+        text-align: center;
+        background-color: #9fd3aa;
+    
+    }
+
+.Header{margin-top: 100px;
+    font-size: 30px;
+    color: #4b0082;
+    text-align: center;
+    }
+    
+   
+    
+    .caption{
+        margin-bottom: 20px;
+        font-size: 45px;
+        color: #4b0082;
+        text-shadow: 2px 2px 2px gray;
+        text-align: center;
+    }
+    
+    .table{
+        margin: 50px auto; 
+        width: 80%;
+        border-collapse: collapse;
+    }
+
+    th{
+        padding-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        height: 150px;
+        font-size: 22px;
+        text-shadow: 1px 1px 2px black;
+    }
+    
+    tr{
+        background-color: #ffffff;
+    }
+
+    td{
+        text-align: center;
+        padding-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+    }
+
+    .BASIC{
+        background-color: #ff0f83;
+        color: #ffffff;
+    }
+
+    .PRO{
+        background-color: #0083f5;
+        color: #ffffff;
+    }
+
+    .GOLD{
+        background-color: #6400de;
+        color: #ffffff;
+    }
+
+    .PLATINUM{
+        background-color: #fca103;
+        color: #ffffff;
+    }
+
+    .price-text{
+        padding: 15px;
+        margin: 0 auto;
+        box-shadow: 1px 4px 8px gray;
+        border-radius: 3px;
+    }
+
+    .pricebutton{
+        font-size: 18px;
+        margin: 20px;
+        border: 1px solid black;
+        width: 250px;
+        display: inline-block;
+        padding: 20px 5px;
+        border-radius: 45px;
+        text-decoration: none;
+        box-shadow: 1px 3px 4px gray;
+        text-shadow: 1px 1px black black;
+    }
+
+    .gray-bg{
+        background-color: #f5f5f5;
+    }
+
+    
